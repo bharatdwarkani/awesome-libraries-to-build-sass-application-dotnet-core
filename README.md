@@ -82,7 +82,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**MimeKit**](https://github.com/jstedfast/MimeKit) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 * [**FluentEmail**](https://github.com/lukencode/FluentEmail) - .NET Core email sending
 
-#### Testing 
+#### Unit or Integration Testing 
 * [**xunit**](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
 * [**moq**](https://github.com/moq/moq) - The most popular and friendly mocking framework for .NET
 * [**NSubstitute**](https://nsubstitute.github.io/) - NSubstitute is designed as a friendly substitute for .NET mocking libraries.
