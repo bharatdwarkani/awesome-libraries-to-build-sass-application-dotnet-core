@@ -1,4 +1,10 @@
-# Awesome collection of libraries to build Software as a Service (SaaS) application using ASP.NET Core
+# Awesome curated collection of libraries to build Software as a Service (SaaS) Web application using ASP.NET Core
+
+#### Architecture guidance 
+
+* [**Microsoft Architecture patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
+* [**Awesome collection of Sample architecture projects and real time applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications) 
+
 
 #### Project templates / Frameworks
 * [**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going  
@@ -126,14 +132,10 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**html-agility-pack**](https://github.com/zzzprojects/html-agility-pack) - This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
 * [**NServiceBus**](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 
-#### Architecture references, samples
-* [**awesome-dotnet-core-applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications) - An awesome collection of .NET Core real time, sample, architecture reference application projects
+For more such libraries check out [**awesome-dotnet-core**](https://github.com/thangchung/awesome-dotnet-core)
 
 #### Code Quality - Static Analyzers
-* [**awesome-dotnet-core-static-analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers) - Awesome collection of .NET Core Static Analyzers using the .NET Compiler Platform (Roslyn). Also includes a How to guide for using these analyzers and sample project with Cake Build Script to integrate in Continuous integration.
-
-#### Awesome NET Core
-* [**awesome-dotnet-core**](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+[**awesome-dotnet-core-static-analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers) - Awesome collection of .NET Core Static Analyzers using the .NET Compiler Platform (Roslyn). Also includes a How to guide for using these analyzers and sample project with Cake Build Script to integrate in Continuous integration.
 
 Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 
