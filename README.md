@@ -24,11 +24,12 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**Exceptionless**](https://exceptionless.com/) - It provides real-time error reporting for your JavaScript, Node, .NET Core, ASP.NET, Web API, WebForms, WPF, Console, and MVC apps.   
 * [**Serilog**](https://github.com/serilog/serilog) - Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms.  
 * [**NLog**](https://github.com/NLog/NLog) -  NLog is a free logging platform for .NET with rich log routing and management capabilities. It makes it easy to produce and manage high-quality logs for your application regardless of its size or complexity.  
+* [**Ben.Demystifier**](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive)  
 * [**elmah.io**](https://elmah.io/) -  elmah.io is the easy error logging and uptime monitoring service for .NET. Take back control of your errors with support for all .NET web and logging frameworks.  
 * [**prometheus-net**](https://github.com/prometheus-net/prometheus-net) - .NET Standard library to instrument apps for the Prometheus metrics and monitoring system  
 * [**Audit.NET**](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
 * [**BenchmarkDotNet**](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-
+* [**MiniProfiler**](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 
 #### Health checks  
 
@@ -70,6 +71,11 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**quartznet**](https://github.com/quartznet/quartznet) - Quartz.NET is an opensource project aimed at creating a free-for-commercial use Job Scheduler, with enterprise features.
 * [**Hangfire**](https://github.com/HangfireIO/Hangfire/) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.  
 
+#### Mail
+* [**MailKit**](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+* [**MimeKit**](https://github.com/jstedfast/MimeKit) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+* [**FluentEmail**](https://github.com/lukencode/FluentEmail) - .NET Core email sending
+
 #### Testing 
 * [**xunit**](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
 * [**moq**](https://github.com/moq/moq) - The most popular and friendly mocking framework for .NET
@@ -80,9 +86,8 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**ApprovalTests.Net**](https://github.com/approvals/ApprovalTests.Net) - ApprovalTest verification library for .Net
 * [**squadron**](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 * [**magnet**](https://github.com/SwissLife-OSS/magnet) - ApprovalTest verification library for .Net  
-
-#### Extensions
-* [**Z.ExtensionMethods**](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods
+* [**Netling**](https://github.com/hallatore/Netling) - Netling is a load tester client for easy web testing.
+* [**Respawn**](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
 
 #### ORM
 * [**Dapper**](https://github.com/StackExchange/Dapper) -  a simple object mapper for .Net by Stack Overflow
@@ -94,13 +99,16 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 #### Security
 * [**NWebsec**](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET
 * [**CheatSheetSeries**](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DotNet_Security_Cheat_Sheet.md) - Basic .NET security tips for developers.
+* [**aspnetcore-security-headers**](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 * [**AspNetCoreRateLimit**](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+* [**HtmlSanitizer**](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks  
 
 ### Cryptography
 * [**BCrypt.net**](https://github.com/neoKushan/BCrypt.Net-Core) - A .net Core port of BCrypt.net
 * [**Portable.BouncyCastle**](https://github.com/novotnyllc/bc-csharp) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols
 
 #### Misc
+* [**EventStore**](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.  
 * [**MessagePack-CSharp**](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#  
 * [**MediatR**](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET  
 * [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) - AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.
@@ -110,7 +118,13 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**cake-build**](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system.  
 * [**BundlerMinifier**](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension
 * [**nodatime**](https://github.com/nodatime/nodatime) - A better date and time API for .NET
-
+* [**CliWrap**](https://github.com/Tyrrrz/CliWrap) - CliWrap is a library for interacting with command line executables in a functional manner. It provides a convenient model for launching external processes, redirecting inputs and outputs, awaiting completion, and handling cancellation.
+* [**FluentDocker**](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#
+* [**FluentFTP**](https://github.com/robinrodricks/FluentFTP/) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed.  
+* [**reCAPTCHA**](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASPNET Core
+* [**Z.ExtensionMethods**](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods
+* [**html-agility-pack**](https://github.com/zzzprojects/html-agility-pack) - This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
+* [**NServiceBus**](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 
 #### Architecture references, samples
 * [**awesome-dotnet-core-applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications) - An awesome collection of .NET Core real time, sample, architecture reference application projects
