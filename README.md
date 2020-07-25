@@ -2,7 +2,7 @@
 
 #### Architecture references 
 
-* [**Microsoft Cloud Design Patterns patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
+* [**Microsoft Cloud Design Patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
 * [**Awesome collection of Sample architecture projects and real time applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications)
 * [**design-patterns-for-humans**](https://github.com/kamranahmedse/design-patterns-for-humans) 
 * [**ASP.NET Core Developer Roadmap**](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) 
