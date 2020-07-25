@@ -17,7 +17,7 @@ Also, I suggest watching this [**video**](https://www.youtube.com/watch?v=5OtUm1
 
 #### Multitenancy  
 
-* [**Finbuckle.MultiTenant**]() - Finbuckle.MultiTenant is a multitenancy library for ASP.NET Core. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.  
+* [**Finbuckle.MultiTenant**](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is a multitenancy library for ASP.NET Core. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.  
 * [**cloudscribe**](https://github.com/cloudscribe/cloudscribe) - cloudscribe is a related set of projects and components for building cross platform web applications on ASP.NET Core. Get the big picture at cloudscribe.com  
 * [**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) - Orchard Core Framework: An application framework for building modular, multi-tenant applications on ASP.NET Core.  
 * [**aspnetboilerplate**](https://aspnetboilerplate.com/Pages/Documents/Multi-Tenancy) - ASP.NET Boilerplate multitenancy libraries  
