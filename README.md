@@ -36,6 +36,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**elmah.io**](https://elmah.io/) -  elmah.io is the easy error logging and uptime monitoring service for .NET. Take back control of your errors with support for all .NET web and logging frameworks.  
 * [**prometheus-net**](https://github.com/prometheus-net/prometheus-net) - .NET Standard library to instrument apps for the Prometheus metrics and monitoring system  
 * [**Audit.NET**](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
+* [**AuditLogging**](https://github.com/skoruba/AuditLogging) - Simple audit logging for .NET Core with EntityFramework Core  
 * [**BenchmarkDotNet**](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 * [**MiniProfiler**](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 
@@ -43,12 +44,14 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 * [**AspNetCore.Diagnostics.HealthChecks**](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) -  ASP.NET Core Health Check packages for widely used services and platforms.
 
-#### Autentication
+#### Autentication / Authorization
 * [**IdentityServer4**](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core  
 * [**JPProject.IdentityServer4.AdminUI**](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI) -  This is an Administrator Panel for IdentityServer4. It's available in 2 versions: Light and Full. See below the differences.  
+* [**PermissionAccessControl2**](https://github.com/JonPSmith/PermissionAccessControl2) - An example application that contains my approach to feature and data authorization code.
 
 #### Feature Management  
-* [**FeatureManagement-Dotnet**](https://github.com/microsoft/FeatureManagement-Dotnet) -  Feature flags provide a way for ASP.NET Core applications to turn features on or off dynamically.  
+* [**FeatureManagement-Dotnet**](https://github.com/microsoft/FeatureManagement-Dotnet) -  Feature flags provide a way for ASP.NET Core applications to turn features on or off dynamically. 
+* [**FeatureSwitch**](https://github.com/valdisiljuconoks/FeatureSwitch) - FeatureSwitch is library that should reduce amount of time and code required to implement feature switching in your projects.
 
 #### Validation
 * [**FluentValidation**](https://github.com/FluentValidation/FluentValidation) -  A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
@@ -56,12 +59,13 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 #### Caching
 
 * [**StackExchange.Redis**](https://github.com/StackExchange/StackExchange.Redis) -  StackExchange.Redis is a high performance general purpose redis client for .NET languages  
-* [**CacheManager**](https://github.com/MichaCo/CacheManager) - is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+* [**CacheManager**](https://github.com/MichaCo/CacheManager) - is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.  
+* [**HttpCacheHeaders**](https://github.com/KevinDockx/HttpCacheHeaders) - ASP.NET Core middleware that adds HttpCache headers to responses (Cache-Control, Expires, ETag, Last-Modified), and implements cache expiration & validation models
 
 #### API Gateway / Reverse Proxy  
 * [**Ocelot**](https://github.com/ThreeMammals/Ocelot) - Ocelot is a .NET API Gateway.
 * [**ProxyKit**](https://github.com/proxykit/ProxyKit) - toolkit to create code-first HTTP Reverse Proxies hosted in ASP.NET Core as middleware. 
-* [**YARP**](https://github.com/microsoft/reverse-proxy) - A Reverse Proxy" by microsoft (preview)
+* [**YARP**](https://github.com/microsoft/reverse-proxy) (preview) - A Reverse Proxy by microsoft 
 
 
 #### Service Communication
@@ -96,13 +100,17 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**magnet**](https://github.com/SwissLife-OSS/magnet) - ApprovalTest verification library for .Net  
 * [**Netling**](https://github.com/hallatore/Netling) - Netling is a load tester client for easy web testing.
 * [**Respawn**](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
+* [**jest-dotnet**](https://github.com/tomasbruckner/jest-dotnet) - Simple snapshot testing with inspiration from amazing Jest library.
+
 
 #### ORM
 * [**Dapper**](https://github.com/StackExchange/Dapper) -  a simple object mapper for .Net by Stack Overflow
 * [**RepoDb**](https://github.com/mikependon/RepoDb) -  A hybrid ORM library for .NET.  
 * [**Dapper-Plus**](https://github.com/zzzprojects/Dapper-Plus) -  Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET  
 * [**sqlkata**](https://sqlkata.com/) - A fluent SQL query builder for C#  
-* [**dynamic-linq-query-builder**](https://github.com/castle-it/dynamic-linq-query-builder) - A truly generic and dynamic linq query builder to compliment jQuery QueryBuilder and other dynamic linq query generation needs
+* [**dynamic-linq-query-builder**](https://github.com/castle-it/dynamic-linq-query-builder) - A truly generic and dynamic linq query builder to compliment jQuery QueryBuilder and other dynamic linq query generation needs.
+* [**Insight.Database**](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
+
 
 #### Security
 * [**NWebsec**](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET
@@ -110,6 +118,8 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**aspnetcore-security-headers**](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 * [**AspNetCoreRateLimit**](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 * [**HtmlSanitizer**](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks  
+* [**awesome-dotnet-security**](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources
+
 
 ### Cryptography
 * [**BCrypt.net**](https://github.com/neoKushan/BCrypt.Net-Core) - A .net Core port of BCrypt.net
@@ -133,6 +143,8 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**Z.ExtensionMethods**](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods
 * [**html-agility-pack**](https://github.com/zzzprojects/html-agility-pack) - This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
 * [**NServiceBus**](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
+* [**YamlDotNet**](https://github.com/aaubry/YamlDotNet) -  YamlDotNet is a .NET library for YAML  
+* [**protobuf-net**](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET 
 
 For more such libraries check out [**awesome-dotnet-core**](https://github.com/thangchung/awesome-dotnet-core)
 
