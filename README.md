@@ -27,7 +27,7 @@ Also, I suggest watching this [**video**](https://www.youtube.com/watch?v=5OtUm1
 
 You can also check out blog posts on multitenancy by [**Ben Foster**](https://benfoster.io/blog/tagged/saaskit) or [**Gunnar Peipman**](https://gunnarpeipman.com/series/multi-tenant-aspnet-core/). These blogs will help you in setting up multitenancy in your project.  
 
-#### Logging or Monitoring
+#### Logging / Monitoring
 
 * [**Exceptionless**](https://exceptionless.com/) - It provides real-time error reporting for your JavaScript, Node, .NET Core, ASP.NET, Web API, WebForms, WPF, Console, and MVC apps.   
 * [**Serilog**](https://github.com/serilog/serilog) - Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms.  
@@ -47,7 +47,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 #### Autentication / Authorization
 * [**IdentityServer4**](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core  
 * [**JPProject.IdentityServer4.AdminUI**](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI) -  This is an Administrator Panel for IdentityServer4. It's available in 2 versions: Light and Full. See below the differences.  
-* [**PermissionAccessControl2**](https://github.com/JonPSmith/PermissionAccessControl2) - An example application that contains my approach to feature and data authorization code.
+* [**PermissionAccessControl2**](https://github.com/JonPSmith/PermissionAccessControl2) - An example application that contains an approach to feature and data authorization code.
 
 #### Feature Management  
 * [**FeatureManagement-Dotnet**](https://github.com/microsoft/FeatureManagement-Dotnet) -  Feature flags provide a way for ASP.NET Core applications to turn features on or off dynamically. 
