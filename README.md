@@ -4,7 +4,7 @@
 
 * [**Microsoft Cloud Design Patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
 * [**Awesome collection of Sample architecture projects and real time applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications)
-* [**design-patterns-for-humans**](https://github.com/kamranahmedse/design-patterns-for-humans) 
+* [**Design Patterns for Humans**](https://github.com/kamranahmedse/design-patterns-for-humans) 
 * [**ASP.NET Core Developer Roadmap**](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) 
 
 
@@ -76,7 +76,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 * [**Swashbuckle.AspNetCore**](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tooling for API's built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models.  
 * [**redoc**](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Reference Documentation
-* [**docsify**](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+* [**docsify-dotnet-core**](https://github.com/bharatdwarkani/docsify-dotnet-core) - a sample based on [docsify](https://github.com/docsifyjs/docsify) static help document generator based on markdown.
 
 #### Schedulers
 
