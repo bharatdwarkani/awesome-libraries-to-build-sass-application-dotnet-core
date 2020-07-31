@@ -145,6 +145,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**NServiceBus**](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 * [**YamlDotNet**](https://github.com/aaubry/YamlDotNet) -  YamlDotNet is a .NET library for YAML  
 * [**protobuf-net**](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET 
+* [**TimeZoneConverter**](https://github.com/mj1856/TimeZoneConverter) - Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.
 
 For more such libraries check out [**awesome-dotnet-core**](https://github.com/thangchung/awesome-dotnet-core)
 
