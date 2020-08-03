@@ -146,6 +146,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**YamlDotNet**](https://github.com/aaubry/YamlDotNet) -  YamlDotNet is a .NET library for YAML  
 * [**protobuf-net**](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET 
 * [**TimeZoneConverter**](https://github.com/mj1856/TimeZoneConverter) - Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.
+* [**ExtCore**](https://github.com/ExtCore/ExtCore) - ExtCore is a free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core.
 
 For more such libraries check out [**awesome-dotnet-core**](https://github.com/thangchung/awesome-dotnet-core)
 
