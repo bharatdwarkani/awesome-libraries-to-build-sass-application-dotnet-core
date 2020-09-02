@@ -81,7 +81,8 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 #### Schedulers
 
 * [**quartznet**](https://github.com/quartznet/quartznet) - Quartz.NET is an opensource project aimed at creating a free-for-commercial use Job Scheduler, with enterprise features.
-* [**Hangfire**](https://github.com/HangfireIO/Hangfire/) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.  
+* [**Hangfire**](https://github.com/HangfireIO/Hangfire/) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.
+* [**Runly**](https://github.com/runlyio/core-dotnet) - Multi-threaded batch processing and background jobs for .NET Core.
 
 #### Mail
 * [**MailKit**](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
