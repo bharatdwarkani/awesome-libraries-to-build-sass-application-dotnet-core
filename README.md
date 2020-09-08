@@ -132,6 +132,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**MessagePack-CSharp**](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#  
 * [**MediatR**](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET  
 * [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) - AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.
+* [**Foundatio**](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [**NSwag**](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 * [**AutoWrapper**](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.
 * [**NRules**](https://github.com/NRules/NRules) - Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. 
