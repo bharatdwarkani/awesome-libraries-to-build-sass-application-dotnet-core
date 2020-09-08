@@ -14,6 +14,7 @@
 * [**starter-kit**](https://github.com/ngx-rocket/starter-kit) - Web project starter kit including modern tools and workflow based on angular-cli, best practices from the community, a scalable base template and a good learning base. 
 * [**abp**](https://abp.io/) - ABP is a complete architecture and strong infrastructure to create modern web applications! Follows best practices and conventions to provide you a SOLID development experience.  
 * [**fission**](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes   
+* [**MassTransit**](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 
 Also, I suggest watching this [**video**](https://www.youtube.com/watch?v=5OtUm1BLmG0) on clean architecture by Jason Taylor.  
 
