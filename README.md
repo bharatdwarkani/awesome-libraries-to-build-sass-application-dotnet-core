@@ -136,7 +136,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**NSwag**](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 * [**AutoWrapper**](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.
 * [**NRules**](https://github.com/NRules/NRules) - Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. 
-* [**elsa-core**]https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library
+* [**elsa-core**](https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library
 * [**cake-build**](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system.  
 * [**BundlerMinifier**](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension
 * [**nodatime**](https://github.com/nodatime/nodatime) - A better date and time API for .NET
