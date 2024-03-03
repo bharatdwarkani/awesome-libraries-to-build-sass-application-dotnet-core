@@ -9,6 +9,7 @@
 
 
 #### Project templates / Frameworks
+* [**ShipFast-ASP.NET**](https://shipfast-asp.net) - Blazor boilerplate come with necessary modules: Auth, Documentation, Blog, Landing page, Contact form, dashboard for Admin and user, Role and Permission.
 * [**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going  
 * [**Clean Architecture**](https://github.com/jasontaylordev/CleanArchitecture) - This is a solution template for creating a Single Page App (SPA) with Angular and ASP.NET Core following the principles of Clean Architecture.  
 * [**starter-kit**](https://github.com/ngx-rocket/starter-kit) - Web project starter kit including modern tools and workflow based on angular-cli, best practices from the community, a scalable base template and a good learning base. 
@@ -74,7 +75,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 * [**Polly**](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 #### Documentation  
-
+* [**ShipFast-ASP.NET**](https://shipfast-asp.net) - Blazor boilerplate with Documentation module, Blog and more
 * [**Swashbuckle.AspNetCore**](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tooling for API's built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models.  
 * [**redoc**](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Reference Documentation
 * [**docsify-dotnet-core**](https://github.com/bharatdwarkani/docsify-dotnet-core) - a sample based on [docsify](https://github.com/docsifyjs/docsify) static help document generator based on markdown.
